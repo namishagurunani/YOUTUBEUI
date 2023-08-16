@@ -16,7 +16,7 @@
 - The main content is divided into two sections: the sidebar and the videos section.
 - The sidebar contains categories like Home, Trending, Subscriptions, Library, History, and more. Each category is represented by a 'div class="sidebar_category"'> element.
 - The videos section contains a list of recommended videos.
-- Each video is represented by a <div class="video"> element.
+- Each video is represented by a 'div class="video"' element.
 - The video's thumbnail, author's image, title, and details are displayed within the .video_thumbnail, .author, and .title sections.
 # CSS (style.css):
 - The CSS file contains styling rules for various HTML elements and classes.
